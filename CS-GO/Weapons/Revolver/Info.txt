@@ -1,0 +1,5 @@
+<Types Name>
+Magnum
+
+<Ammo>
+Ammo_357

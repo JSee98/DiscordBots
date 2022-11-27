@@ -1,0 +1,39 @@
+<Types Name>
+AKM
+
+<Magazines>
+Mag_AKM_Palm30Rnd - Mag_AKM_Palm30Rnd_Green - Mag_AKM_30Rnd
+Mag_AKM_Drum75Rnd - Mag_AKM_Drum75Rnd_Green
+Mag_AKM_Drum_TEST - 300rd AKM mag
+
+<Optics>
+PSO-1 Scope - 4 x Scope Designed for SVD
+PSO-1-1 Scope - 4 x Scope Designed for VSS
+Kobra Sights - Red Dot
+P1-87-L Scope - 2.8x Scope
+1PN51 Scope - NVG
+
+<Handguards>
+AK_RailHndgrd - AK_RailHndgrd_Black - AK_RailHndgrd_Green
+AK_PlasticHndgrd - AK_PlasticHndgrd_Black - AK_PlasticHndgrd_Green
+AK_WoodHndgrd - AK_WoodHndgrd_Black - AK_WoodHndgrd_Camo
+
+<Buttstocks>
+AK_FoldingBttstck - AK_FoldingBttstck_Black - AK_FoldingBttstck_Green
+AK_PlasticBttstck - AK_PlasticBttstck_Black - AK_PlasticBttstck_Green
+AK_WoodBttstck - AK_WoodBttstck_Black - AK_WoodBttstck_Camo
+
+<Muzzles>
+AK_Suppressor - ImprovisedSuppressor
+
+<Bayonets>
+AK_Bayonet - AK_Bayonet
+
+<Illumination>
+Universal Flashlight - UniversalLight
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

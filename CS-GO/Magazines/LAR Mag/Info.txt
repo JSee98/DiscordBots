@@ -1,0 +1,11 @@
+<Types Name>
+Mag_FAL_20Rnd
+
+<Associated Items>
+Ammo_308Win
+Ammo_308WinTracer
+FAL
+Gun Cleaning Kit
+
+<Size>
+2 Slots

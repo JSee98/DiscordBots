@@ -1,0 +1,14 @@
+<Types Name>
+Le-Famas
+
+<Magazines>
+Mag_FAMAS_25Rnd
+
+<Muzzles>
+ImprovisedSuppressor
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

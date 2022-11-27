@@ -1,0 +1,11 @@
+<Types Name>
+Mag_SVD_10Rnd
+
+<Associated Items>
+Ammo_762x54
+Ammo_762x54Tracer
+SVD
+Gun Cleaning Kit
+
+<Size>
+2 Slots

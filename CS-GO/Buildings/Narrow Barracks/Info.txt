@@ -1,0 +1,11 @@
+Description: "The Narrow Barracks or "Old Barracks" is a type of military barracks used to accommodate small platoons of CDF troops. 
+This variant has a washroom at the front followed by three, two-person quarters."
+
+Locations: Military Camps
+Tags: Military
+Types: Weapons, Ammo, Attachments, Explosives, Clothes, Containers, Food, Drink, Tools
+Loot Count: Average
+Floors: 1
+Entrances: 1
+
+https://dayz.fandom.com/wiki/Narrow_Barracks

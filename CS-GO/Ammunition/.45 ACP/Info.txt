@@ -1,0 +1,19 @@
+Size: 1 Slot
+Weight: 12g (0.03 lb)
+Stack Size: 25 Rounds
+Supersonic: No
+Initial Velocity:	260 m/s
+Optimal Velocity:	290 m/s
+Air Friction: -0.001
+Penetration: 0.9
+Deflect Angle: 30°
+
+Damage
+Health 40
+Blood	100
+Shock	40
+
+Locations	Military
+Rarity	Common
+
+https://dayz.fandom.com/wiki/.45_ACP_Rounds

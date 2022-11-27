@@ -1,0 +1,19 @@
+<Types Names>
+Mag_AKM_30Rnd
+Mag_AKM_Palm30Rnd
+Mag_AKM_Palm30Rnd_Green
+Mag_AKM_Palm30Rnd_Black
+Mag_AKM_Drum75Rnd
+Mag_AKM_Drum75Rnd_Green
+Mag_AKM_Drum75Rnd_Black
+Mag_AKM_Drum_TEST
+
+<Associated Items>
+Ammo_762x39
+Ammo_762x39Tracer
+AKM
+Gun Cleaning Kit
+
+<Size>
+3 Slots for 30rd
+9 Slots for 75rd and 300rd

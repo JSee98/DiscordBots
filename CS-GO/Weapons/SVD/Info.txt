@@ -1,0 +1,21 @@
+<Types Name>
+SVD
+
+<Magazines>
+Mag_SVD_10Rnd
+
+<Optics>
+PSO-1 Scope - 4 x Scope Designed for SVD
+PSO-1-1 Scope - 4 x Scope Designed for VSS
+Kobra Sights - Red Dot
+P1-87-L Scope - 2.8x Scope
+1PN51 Scope - NVG
+
+<Muzzles>
+AK_Suppressor - ImprovisedSuppressor
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

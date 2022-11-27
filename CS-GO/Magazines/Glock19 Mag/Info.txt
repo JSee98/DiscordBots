@@ -1,0 +1,10 @@
+<Types Name>
+Mag_Glock_15Rnd
+
+<Associated Items>
+Ammo_9x19
+Glock19
+Gun Cleaning Kit
+
+<Size>
+2 Slots

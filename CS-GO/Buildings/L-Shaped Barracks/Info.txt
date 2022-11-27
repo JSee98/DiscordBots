@@ -1,0 +1,12 @@
+Description: "The L-Shaped Barracks is a type of military barracks used to accommodate small platoons of CDF troops.
+This variant features a large corridor, three group quarters, and a washroom." 
+
+
+Locations: Military Camps
+Tags: Military
+Types: Weapons, Ammo, Attachments, Explosives, Clothes, Containers, Food, Drink, Tools
+Loot Count: Average
+Floors: 1
+Entrances: 1
+
+https://dayz.fandom.com/wiki/L-Shaped_Barracks

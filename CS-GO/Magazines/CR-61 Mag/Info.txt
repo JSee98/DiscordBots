@@ -1,0 +1,10 @@
+<Types Name>
+Mag_CZ61_20Rnd
+
+<Associated Items>
+Ammo_380
+CZ61
+Gun Cleaning Kit
+
+<Size>
+2 Slots

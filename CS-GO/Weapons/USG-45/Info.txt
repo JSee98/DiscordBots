@@ -1,0 +1,24 @@
+<Types Name>
+UMP45
+
+<Optics>
+Baraka Sights - ReflexOptic
+Combat Sights - M68Optic
+RVN Sights - M4_T3NRDSOptic
+ATOG Scope - ACOGOptic
+ATOG 6X Scope - ACOGOptic_6x
+
+<Magazines>
+Mag_UMP_25Rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor
+
+<Illumination>
+Universal Flashlight - UniversalLight
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

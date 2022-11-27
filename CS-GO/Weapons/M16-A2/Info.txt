@@ -1,0 +1,24 @@
+<Type Names>
+M16A2
+
+<Magazines>
+10Rnd 5.56mm CMAG - Mag_CMAG_30Rnd
+30rd Standardized Mag - Mag_STANAG_30Rnd
+40Rnd 5.56mm CMAG - Mag_CMAG_40Rnd
+30Rnd STANAG (Coupled) - Mag_STANAGCoupled_30Rnd
+
+<Optics>
+Iron Sights Only
+
+<Muzzles>
+Standardized Suppressor - M4_Suppressor
+Plastic Bottle Suppressor - ImprovisedSuppressor
+
+<Bayonets>
+M9A1_Bayonet - M9A1_Bayonet
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

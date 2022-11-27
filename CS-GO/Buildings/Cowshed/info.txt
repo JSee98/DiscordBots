@@ -1,0 +1,11 @@
+Description: "Cow Sheds contain farm-related loot. 
+fairly common, they can be found most-everywhere on the map.
+
+Locations:	Cities, Towns
+Tags:	Farm
+Types: Weapons, Ammo, Attachments, Clothes, Containers, Tools
+Loot Count:	Low
+Floors: 1
+Entrances: 3
+
+https://dayz.fandom.com/wiki/Cow_Shed

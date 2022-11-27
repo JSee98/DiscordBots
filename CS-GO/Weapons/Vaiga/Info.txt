@@ -1,0 +1,21 @@
+<Types Name>
+Saiga
+
+<Magazines>
+Mag_Saiga_5Rnd - Mag_Saiga_8Rnd - Mag_Saiga_Drum20Rnd
+
+<Optics>
+PSO-1 Scope - 4 x Scope Designed for SVD
+PSO-1-1 Scope - 4 x Scope Designed for VSS
+Kobra Sights - Red Dot
+P1-87-L Scope - 2.8x Scope
+1PN51 Scope - NVG
+
+<Buttstocks>
+Saiga_Bttstck
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

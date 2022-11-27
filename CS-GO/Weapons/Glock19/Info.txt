@@ -1,0 +1,14 @@
+<Types Name>
+Glock19
+
+<Scopes>
+FNP45_MRDSOptic
+
+<Magazines>
+Mag_Glock_15Rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor
+
+<Illumination>
+TLRLight

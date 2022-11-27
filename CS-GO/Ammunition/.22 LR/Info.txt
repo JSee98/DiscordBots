@@ -1,0 +1,19 @@
+Size:	1 Slot
+Weight: 2g (0 lb)
+Stack Size: 50 Rounds
+Supersonic: Yes
+Initial Velocity: 370 m/s
+Optimal Velocity: 440 m/s
+Air Friction: -0.00249
+Deflect Angle: 30°
+Dispersion: 0.006
+
+DAMAGE:
+Health 20
+Blood	100
+Shock	20
+
+Locations: Civilian, Hunting
+Rarity: Common
+
+https://dayz.fandom.com/wiki/.22_LR_Rounds

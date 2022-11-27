@@ -1,0 +1,10 @@
+Description: "A Boathouse is a type of coastal building in DayZ that is only found near the coast.
+Normally yeilding decent starter gear."
+
+Locations: Berezhki, Chernogorsk,< Elektrozavodsk
+Tags:	Coast
+Loot Count:	Average
+Floors: 2
+Entrances: 4
+
+https://dayz.fandom.com/wiki/Boathouse

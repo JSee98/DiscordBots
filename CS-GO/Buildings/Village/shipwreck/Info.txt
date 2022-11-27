@@ -1,0 +1,11 @@
+Description: "The Shipwreck is located just north of Berezino. 
+It is a spawn location for Survivors and can be a great source 
+of loot for Fresh Spawns."
+
+Tags:	Coast, Industrial, Military, Town, Village
+Types: Weapons, Ammo, Attachments, Explosives, Clothes, Containers, Food, Drink, Tools
+Loot Count: Very High
+Floors: 6
+Entrances: 2
+
+https://dayz.fandom.com/wiki/Shipwreck

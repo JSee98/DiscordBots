@@ -1,0 +1,10 @@
+<Types Name>
+Mag_IJ70_8Rnd
+
+<Associated Items>
+Ammo_380
+MakarovIJ70
+Gun Cleaning Kit
+
+<Size>
+2 Slots

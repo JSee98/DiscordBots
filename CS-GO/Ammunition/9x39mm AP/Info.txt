@@ -1,0 +1,21 @@
+Size: 1 Slot
+Weight: 10g (0.02 lb)
+Stack Size:	20
+Supersonic:	No
+Initial Velocity:	320 m/s
+Optimal Velocity:	320 m/s
+Air Friction: 0.00055
+Penetration: 1
+Deflect Angle: 15°
+Dispersion:	0
+
+Damage
+Health 95
+Blood	100
+Shock	66
+
+Locations	Military, Helicopter Crash
+Rarity	Extremely Rare
+Variants	9×39mm Rounds
+
+https://dayz.fandom.com/wiki/9x39mm_Armor-Piercing_Rounds

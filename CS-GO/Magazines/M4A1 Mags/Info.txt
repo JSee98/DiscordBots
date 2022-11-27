@@ -1,0 +1,30 @@
+<Types Names>
+Mag_STANAG_30Rnd
+Mag_STANAGCoupled_30Rnd
+Mag_CMAG_10Rnd
+Mag_CMAG_10Rnd_Black
+Mag_CMAG_10Rnd_Green
+Mag_CMAG_20Rnd
+Mag_CMAG_20Rnd_Black
+Mag_CMAG_20Rnd_Green
+Mag_CMAG_30Rnd
+Mag_CMAG_30Rnd_Black
+Mag_CMAG_30Rnd_Green
+Mag_CMAG_40Rnd
+Mag_CMAG_40Rnd_Black
+Mag_CMAG_40Rnd_Green
+
+<Associated Items>
+Ammo_556x45
+Ammo_556x45Tracer
+M4A1
+M4A1_Green
+M4A1_Black
+Gun Cleaning Kit
+
+<Size>
+1 Slot - 10rd Mag
+2 Slots - 20rd Mag and 30rd Mag
+3 Slots - 30rd Mag
+4 Slots - 40rd Mag
+6 Slots - 60rd Mag

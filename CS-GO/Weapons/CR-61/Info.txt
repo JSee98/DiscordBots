@@ -1,0 +1,8 @@
+<Types Name>
+CZ61
+
+<Magazines>
+Mag_CZ61_20Rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor

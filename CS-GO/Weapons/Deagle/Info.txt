@@ -1,0 +1,11 @@
+<Types Name>
+Deagle
+
+<Scopes>
+PistolOptic - FNP45_MRDSOptic
+
+<Magazines>
+Mag_Deagle_9rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor

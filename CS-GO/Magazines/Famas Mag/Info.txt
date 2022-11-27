@@ -1,0 +1,11 @@
+<Types Name>
+Mag_FAMAS_25Rnd
+
+<Associated Items>
+Ammo_556x45
+Ammo_556x45Tracer
+FAMAS
+Gun Cleaning Kit
+
+<Size>
+2 Slots

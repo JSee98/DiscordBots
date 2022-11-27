@@ -1,0 +1,45 @@
+<Type Names>
+M4A1
+M4A1_Black
+M4A1_Green
+
+<Magazines>
+10Rnd 5.56mm CMAG - Mag_CMAG_30Rnd
+30rd Standardized Mag - Mag_STANAG_30Rnd
+40Rnd 5.56mm CMAG - Mag_CMAG_40Rnd
+30Rnd STANAG (Coupled) - Mag_STANAGCoupled_30Rnd
+
+<Optics>
+M4A1 Carry Handle Sights - M4_CarryHandleOptic
+Backup Iron Sights - BUISOptic
+Baraka Sights - ReflexOptic
+Combat Sights - M68Optic
+RVN Sights - M4_T3NRDSOptic
+ATOG 4X Scope - ACOGOptic
+ATOG 6X Scope - ACOGOptic_6x
+
+<Handguards>
+M4A1 Polymer Handguard - M4_PlasticHndgrd
+M4A1 Rail Handguard - M4_RISHndgrd
+M4A1 MP Handguard - M4_MPHndgrd
+
+<Buttstocks>
+M4A1 Telescopic Buttstock - M4_OEBttstck
+M4A1 CQB Buttstock - M4_CQBBttstck
+M4A1 MP Buttstock - M4_MPBttstck
+
+<Muzzles>
+Standardized Suppressor - M4_Suppressor
+Plastic Bottle Suppressor - ImprovisedSuppressor
+
+<Bayonets>
+M9A1_Bayonet - M9A1_Bayonet
+
+<Illumination>
+Universal Flashlight - UniversalLight
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

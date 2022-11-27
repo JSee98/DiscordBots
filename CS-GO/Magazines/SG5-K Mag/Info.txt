@@ -1,0 +1,10 @@
+<Types Name>
+Mag_MP5_30Rnd
+
+<Associated Items>
+Ammo_9x19
+MP5K
+Gun Cleaning Kit
+
+<Size>
+3 Slots

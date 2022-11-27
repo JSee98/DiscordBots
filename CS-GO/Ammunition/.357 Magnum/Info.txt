@@ -1,0 +1,19 @@
+Size: 1 Slot
+Weight: 8g (0.02 lb)
+Stack Size:	20 Rounds
+Supersonic: Yes
+Initial Velocity:	440 m/s
+Optimal Velocity:	520 m/s
+Air Friction: -0.0014
+Penetration: 0.9
+Deflect Angle: 30°
+
+Damage
+Health 65
+Blood	100
+Shock	90
+
+Locations	Civilian, Hunting
+Rarity	Uncommon
+
+https://dayz.fandom.com/wiki/.357_Rounds

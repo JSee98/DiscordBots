@@ -1,0 +1,10 @@
+<Types Name>
+Mag_UMP_25Rnd
+
+<Associated Items>
+Ammo_45ACP
+UMP45
+Gun Cleaning Kit
+
+<Size>
+3 Slots

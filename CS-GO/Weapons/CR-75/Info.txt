@@ -1,0 +1,14 @@
+<Types Name>
+CZ75
+
+<Scopes>
+FNP45_MRDSOptic
+
+<Magazines>
+Mag_CZ75_15Rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor
+
+<Illumination>
+TLRLight

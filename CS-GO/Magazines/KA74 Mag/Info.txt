@@ -1,0 +1,18 @@
+<Types Name>
+Mag_AK74_30Rnd
+Mag_AK74_30Rnd_Black
+Mag_AK74_30Rnd_Green
+
+<Associated Items>
+Ammo_545x39
+Ammo_545x39Tracer
+AK74
+AK74_Black
+AK74_Green
+AKS74U
+AKS74U_Black
+AKS74U_Green
+Gun Cleaning Kit
+
+<Size>
+3 Slots

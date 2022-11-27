@@ -1,0 +1,11 @@
+<Types>
+Engraved1911
+
+<Magazines>
+Mag_1911_7Rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor
+
+<Illumination>
+TLRLight

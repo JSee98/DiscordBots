@@ -1,0 +1,15 @@
+Description: "The ATC Tower provides Military loot spawns. 
+It's ground floor has storage rooms, a workshop, a recreational room and a garage. 
+The intermediate floors contain large outdated radio and radar equipment. 
+The top floor contains offices, with access to the windowed control room above. 
+A ladder outside the room provides access to the its roof. 
+A set of ladders allows access to the control room from the ground floor outside."
+
+
+Locations: Vybor Air Base
+Tags:	Military
+Loot Count: High
+Floors: 6
+Entrances: 5
+
+https://dayz.fandom.com/wiki/ATC_Tower

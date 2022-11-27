@@ -1,0 +1,8 @@
+Locations: Coast
+Tags:	Coast
+Types: Clothes, Containers, Food, Drink, Tools
+Loot Count: Low
+Floors: N/A
+Entrances: N/A
+
+https://dayz.fandom.com/wiki/Small_Boat

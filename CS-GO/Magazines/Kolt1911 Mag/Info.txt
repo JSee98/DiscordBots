@@ -1,0 +1,11 @@
+<Types Name>
+Mag_1911_7Rnd
+
+<Associated Items>
+Ammo_45ACP
+Colt1911
+Engraved1911
+Gun Cleaning Kit
+
+<Size>
+2 Slots

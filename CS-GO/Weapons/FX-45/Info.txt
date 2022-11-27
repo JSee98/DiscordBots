@@ -1,0 +1,14 @@
+<Types Name>
+FNX45
+
+<Scopes>
+FNP45_MRDSOptic
+
+<Magazines>
+Mag_FNX45_15Rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor
+
+<Illumination>
+TLRLight

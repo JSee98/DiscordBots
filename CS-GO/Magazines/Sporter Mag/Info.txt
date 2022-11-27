@@ -1,0 +1,11 @@
+<Types Name>
+Mag_Ruger1022_15Rnd
+Mag_Ruger1022_30Rnd
+
+<Associated Items>
+Ammo_22
+Ruger1022
+Gun Cleaning Kit
+
+<Size>
+3 Slots

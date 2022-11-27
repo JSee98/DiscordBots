@@ -1,0 +1,10 @@
+<Types Name>
+Mag_FNX45_15Rnd
+
+<Associated Items>
+Ammo_45ACP
+FNX45
+Gun Cleaning Kit
+
+<Size>
+2 Slots

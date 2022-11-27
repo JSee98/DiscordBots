@@ -1,0 +1,10 @@
+<Types Name>
+Mag_CZ75_15Rnd
+
+<Associated Items>
+Ammo_9x19
+CZ75
+Gun Cleaning Kit
+
+<Size>
+1 Slots

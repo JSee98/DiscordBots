@@ -1,0 +1,8 @@
+<Types Name>
+MakarovIJ70
+
+<Magazines>
+Mag_IJ70_8Rnd
+
+<Muzzle>
+PistolSuppressor - ImprovisedSuppressor

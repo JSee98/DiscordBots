@@ -1,0 +1,11 @@
+<Types Name>
+Mag_Deagle_9rnd
+
+<Associated Items>
+Ammo_357
+Deagle
+Deagle_Gold
+Gun Cleaning Kit
+
+<Size>
+2 Slots

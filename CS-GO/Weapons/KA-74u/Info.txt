@@ -1,0 +1,30 @@
+<Type Names>
+AKS74U
+AKS74U_Black
+AKS74U_Green
+
+<Magazines>
+Mag_AK74_30Rnd
+Mag_AK74_30Rnd_Green
+Mag_AK74_30Rnd_Black
+
+<Buttstocks>
+AKS74U_Bttstck
+AK_FoldingBttstck - AK_FoldingBttstck_Black - AK_FoldingBttstck_Green
+AK_PlasticBttstck - AK_PlasticBttstck_Black - AK_PlasticBttstck_Green
+AK_WoodBttstck - AK_WoodBttstck_Black - AK_WoodBttstck_Camo
+
+<Muzzles>
+AK_Suppressor - ImprovisedSuppressor
+
+<Bayonets>
+AK_Bayonet - AK_Bayonet
+
+<Illumination?
+Universal Flashlight - UniversalLight
+
+<Wraps?
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

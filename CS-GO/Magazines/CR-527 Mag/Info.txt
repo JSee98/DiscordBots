@@ -1,0 +1,14 @@
+<Types Name>
+Mag_CZ527_5rnd
+
+<Associated Items>
+Ammo_762x39
+Ammo_762x39Tracer
+CZ527
+CZ527_Black
+CZ527_Green
+CZ527_Camo
+Gun Cleaning Kit
+
+<Size>
+1 Slot

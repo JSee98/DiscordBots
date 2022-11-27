@@ -1,0 +1,23 @@
+<Types Name>
+Mosin9130
+Mosin9130_Camo
+Mosin9130_Black
+Mosin9130_Green
+
+<Ammo>
+Ammo_762x54 - Ammo_762x54Tracer
+
+<Optics>
+PUScopeOptic - 3.5 x Scope
+
+<Muzzles>
+Mosin_Compensator - ImprovisedSuppressor
+
+<Bayonets>
+Mosin_Bayonet
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

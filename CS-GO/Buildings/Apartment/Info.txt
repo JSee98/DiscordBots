@@ -1,0 +1,11 @@
+Description: "Tenements are large multi-floor housing blocks used by the former inhabitants of Chernarus. 
+Found only in the larger cities, Tenements currently do not spawn any loot, but may be survivors 
+hiding in many of the sniping spots inside."
+
+Locations: Cities
+Tags: Town
+Loot Count:	None
+Floors: 5 to 10
+Entrances: 1
+
+https://dayz.fandom.com/wiki/Tenements

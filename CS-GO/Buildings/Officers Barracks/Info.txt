@@ -1,0 +1,12 @@
+Description: "Officer's Barracks are semi-circular metal buildings used to house soldiers. 
+They have four beds inside and little stairs leading up to the door. 
+They have a couple of military loot spawns and are therefore a considerable target for survivor activity."
+
+Locations: Military Camps, Airfields
+Tags: Military
+Types: Weapons, Ammo, Attachments, Explosives, Clothes, Containers, Food, Drink, Tools
+Loot Count: Low
+Floors: 1
+Entrances: 1
+
+https://dayz.fandom.com/wiki/Officer%27s_Barracks

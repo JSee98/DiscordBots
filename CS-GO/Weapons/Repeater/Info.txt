@@ -1,0 +1,11 @@
+<Types Name>
+Repeater
+
+<Ammo>
+Ammo_357
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

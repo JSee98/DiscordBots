@@ -1,0 +1,19 @@
+<Type Names>
+SKS
+SKS_Black
+SKS_Green
+
+<Ammo>
+Ammo_762x39 - Ammo_762x39Tracer
+
+<Optics>
+PUScopeOptic
+
+<Muzzles>
+SKS_Bayonet - ImprovisedSuppressor
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

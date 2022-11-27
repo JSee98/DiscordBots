@@ -1,0 +1,17 @@
+<Types Name>
+Ruger1022
+
+<Magazines>
+Mag_Ruger1022_30Rnd - Mag_Ruger1022_15Rnd
+
+<Optics>
+Hunting Scope - HuntingOptic
+
+<Muzzles>
+ImprovisedSuppressor
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

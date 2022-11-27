@@ -1,0 +1,19 @@
+Size: 1 Slot
+Weight: 6g (0.01 lb)
+Stack Size: 25 Rounds
+Supersonic: Yes
+Initial Velocity:	350 m/s
+Optimal Velocity:	380 m/s
+Air Friction: -0.0023
+Penetration: 0.8
+Deflect Angle: 30°
+
+Damage
+Health 40
+Blood	100
+Shock	40
+
+Locations	Military, Police, Town, Village
+Rarity	Common
+
+https://dayz.fandom.com/wiki/9x19mm_Rounds

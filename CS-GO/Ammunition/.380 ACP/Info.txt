@@ -1,0 +1,19 @@
+Size: 1 Slot
+Weight: 6g (0.01 lb)
+Stack Size: 35 Rounds
+Supersonic: No
+Initial Velocity: 300 m/s
+Optimal Velocity: 345 m/s
+Air Friction: -0.0015
+Penetration: 0.8
+Deflect Angle: 30°
+
+Damage
+Health 35
+Blood	100
+Shock	35
+
+Locations	Police, Town, Village
+Rarity	Common
+
+https://dayz.fandom.com/wiki/.380_ACP_Rounds

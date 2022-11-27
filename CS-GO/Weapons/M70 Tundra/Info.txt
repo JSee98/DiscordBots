@@ -1,0 +1,16 @@
+<Type name> 
+Winchester70
+Winchester70_Black
+Winchester70_Green
+
+<Ammo>
+Ammo_308Win - Ammo_308WinTracer
+
+<Optics>
+Hunting Scope - HuntingOptic
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

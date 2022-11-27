@@ -1,0 +1,15 @@
+<Types Names>
+Mag_AK101_30Rnd
+Mag_AK101_30Rnd_Green
+Mag_AK101_30Rnd_Black
+
+<Associated Items>
+Ammo_556x45
+Ammo_556x45Tracer
+AK101
+AK101_Black
+AK101_Green
+Gun Cleaning Kit
+
+<Size>
+3 Slots

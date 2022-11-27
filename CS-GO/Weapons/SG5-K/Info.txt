@@ -1,0 +1,30 @@
+<Types Name>
+MP5K
+
+<Optics>
+Baraka Sights - ReflexOptic
+Combat Sights - M68Optic
+RVN Sights - M4_T3NRDSOptic
+ATOG Scope - ACOGOptic
+ATOG 6X Scope - ACOGOptic_6x
+
+<Magazines>
+Mag_MP5_30Rnd
+
+<Handguards>
+MP5_PlasticHndgrd - MP5_RailHndgrd
+
+<Buttstocks>
+MP5k_StockBttstck
+
+<Muzzle>
+MP5_Compensator - PistolSuppressor - ImprovisedSuppressor
+
+<Illumination>
+Universal Flashlight - UniversalLight
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

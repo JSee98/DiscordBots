@@ -1,0 +1,21 @@
+Size: 1 Slot
+Weight: 4g (0.01 lb)
+Stack Size: 20 Rounds
+Supersonic: Yes
+Initial Velocity:	850 m/s
+Optimal Velocity:	1000 m/s
+Air Friction: -0.00125
+Penetration: 0.9
+Deflect Angle: 10°
+Barrel Damage: 3
+
+Damage
+Health 110
+Blood	100
+Shock	110
+
+Locations	Military
+Rarity	Uncommon
+Variants	Tracer Rounds
+
+https://dayz.fandom.com/wiki/5.56x45mm_Rounds

@@ -1,0 +1,10 @@
+Description: "Bus Station Benches are wall-mounted seats found at Bus Stations. 
+These benches often come in rows of three or four, making them notable for their clothes and weapons."
+
+Locations: Cities
+Tags: Town
+Loot Count:	Very Low
+Floors:	N/A
+Entrances:	N/A
+
+https://dayz.fandom.com/wiki/Bus_Station_Bench

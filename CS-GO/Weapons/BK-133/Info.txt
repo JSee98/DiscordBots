@@ -1,0 +1,16 @@
+<Types name>
+Mp133Shotgun
+
+<Optics>
+FNP45_MRDSOptic
+
+<Ammo>
+Ammo_12gaPellets
+Ammo_12gaSlug
+Ammo_12gaRubberSlug
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

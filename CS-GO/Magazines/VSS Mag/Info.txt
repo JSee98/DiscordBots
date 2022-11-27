@@ -1,0 +1,11 @@
+<Types Name>
+Mag_VSS_10Rnd
+
+<Associated Items>
+Ammo_9x39
+Ammo_9x39AP
+VSS
+Gun Cleaning Kit
+
+<Size>
+2 Slots

@@ -1,0 +1,15 @@
+
+<Types Name> 
+B95
+
+<Ammo>
+Ammo_308Win - Ammo_308WinTracer
+
+<Optics>
+Hunting Scope - HuntingOptic
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

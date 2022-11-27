@@ -1,0 +1,24 @@
+<Type Names>
+CZ527
+CZ527_Camo
+CZ527_Black
+CZ527_Green
+
+<Magazines>
+Mag_CZ527_5rnd
+
+<Ammo>
+Ammo_762x39
+AmmoBox_762x39Tracer_20Rnd
+
+<Optics>
+Hunting Scope - HuntingOptic
+
+<Muzzles>
+ImprovisedSuppressor
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

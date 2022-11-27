@@ -1,0 +1,15 @@
+<Types Name>
+Mag_Saiga_5Rnd
+Mag_Saiga_8Rnd
+Mag_Saiga_Drum20Rnd
+
+<Associated Items>
+Ammo_12gaPellets
+Ammo_12gaSlug
+Ammo_12gaRubberSlug
+Saiga
+Gun Cleaning Kit
+
+<Size>
+2 Slots - 5rd and 8rd mags
+4 Slots - 20rd Mag

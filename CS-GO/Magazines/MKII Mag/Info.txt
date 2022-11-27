@@ -1,0 +1,10 @@
+<Types Name>
+Mag_MKII_10Rnd
+
+<Associated Items>
+Ammo_22
+MK11
+Gun Cleaning Kit
+
+<Size>
+2 Slots

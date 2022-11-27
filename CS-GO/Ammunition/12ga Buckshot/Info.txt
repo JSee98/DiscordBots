@@ -1,0 +1,21 @@
+Size: 1 Slot
+Weight: 28g (0.06 lb)
+Stack Size: 10 Shells
+Supersonic: Yes
+Initial Velocity:	340 m/s
+Optimal Velocity:	420 m/s
+Air Friction: -0.00575
+Penetration: 0.5
+Deflect Angle: 0°
+Dispersion: 0.05
+
+Damage
+Health 35x8
+Blood	100
+Shock	35
+
+Locations	Hunting, Farm, Village, Town, Police
+Rarity	Uncommon
+Variants	12ga Rifled Slugs, 12ga Rubber Slugs
+
+https://dayz.fandom.com/wiki/12ga_00_Buckshots

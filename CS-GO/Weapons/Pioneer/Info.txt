@@ -1,0 +1,21 @@
+<Types Name>
+Scout_Chernarus
+Scout_Livonia
+
+<Magazines>
+Mag_Scout_5Rnd
+
+<Optics>
+ACOGOptic
+ACOGOptic_6x
+M68Optic
+M4_T3NRDSOptic
+
+<Muzzles>
+M4_Suppressor - ImprovisedSuppressor
+
+<Wraps>
+Ghillie Rifle Wrap
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland

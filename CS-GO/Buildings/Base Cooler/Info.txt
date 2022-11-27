@@ -1,0 +1,10 @@
+Description: "Base Cooler are small air conditioning units found in exclusively at Tisy military compound and in Vybor Air Base.
+They can be entered via prone, and yield some top-tier industrial loot."
+
+Locations: Military Bases
+Tags: Industrial
+Loot Count: Very Low
+Floors: 2
+Entrances: 0
+
+https://dayz.fandom.com/wiki/Base_Cooler

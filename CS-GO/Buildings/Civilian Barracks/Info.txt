@@ -1,0 +1,12 @@
+Description: "The Civilian Barracks is the civilian equivalent of the military barracks. 
+These barracks are run-down camping-style housing units, with a double door entryway being broken open and three larger rooms. 
+These barracks do yield the same type of military-grade loot as their garrison counterpart."
+
+Locations: Towns, Camping Areas
+Tags:	Military
+Types: Weapons, Ammo, Attachments, Explosives, Clothes, Containers, Food, Drink, Tools
+Loot Count: Average
+Floors: 1
+Entrances: 1
+
+https://dayz.fandom.com/wiki/Civilian_Barracks
